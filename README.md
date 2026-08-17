@@ -74,8 +74,7 @@ The dashboard includes interactive filters for:
 - Month
 - Region
 
-The filters can be used individually or together for more detailed analysi
-
+The filters can be used individually or together for more detailed analysis.
 
 ## Dashboard Preview
 
@@ -103,10 +102,3 @@ The dashboard was designed with a clean, consistent layout to support effective 
 This project demonstrates practical skills in Power BI, data modeling, DAX measures, interactive filtering, and business data visualization.
 
 The completed dashboard provides an accessible and interactive view of sales performance and supports data-driven business analysis.
-
-
-
-
-
-
-
