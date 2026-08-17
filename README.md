@@ -19,7 +19,7 @@ The project uses the **Sample Superstore** dataset, containing order-level infor
 
 The original dataset is included in this repository as:
 
-`sample_superstore.xls`
+full sample_superstore.xls
 
 ## Tools Used
 
