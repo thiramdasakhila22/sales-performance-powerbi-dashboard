@@ -84,7 +84,7 @@ The dashboard was designed with a clean layout and consistent visual formatting 
 | File | Description |
 |---|---|
 | `Sales_Performance_Dashboard.pbix` | Final Power BI dashboard |
-| `sample_superstore.xls` | Source dataset |
+| `full sample_superstore.xls` | Source dataset |
 | `README.md` | Project documentation |
 
 ## Conclusion
