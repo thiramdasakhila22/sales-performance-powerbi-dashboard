@@ -74,7 +74,8 @@ The dashboard includes interactive filters for:
 - Month
 - Region
 
-The filters can be used individually or together for more detailed analysis.
+The filters can be used individually or together for more detailed analysi
+
 
 ## Dashboard Preview
 
