@@ -2,13 +2,13 @@
 
 ## Project Overview
 
-This project presents an interactive Sales Performance Dashboard developed in Microsoft Power BI using the Sample Superstore dataset.
+This project presents an interactive Sales Performance Dashboard developed using Microsoft Power BI and the Sample Superstore dataset.
 
-The dashboard is designed to provide a clear view of overall sales performance, profitability, product performance, regional performance, and sales trends over time.
+The dashboard provides a clear view of sales performance, profitability, product performance, regional performance, and sales trends over time.
 
 ## Dataset
 
-The project uses the **Sample Superstore** dataset, containing order-level information such as:
+The project uses the **Sample Superstore** dataset, which contains order-level business information including:
 
 - Order Date
 - Product Name
@@ -19,17 +19,17 @@ The project uses the **Sample Superstore** dataset, containing order-level infor
 
 The original dataset is included in this repository as:
 
-full sample_superstore.xls
+`full sample_superstore.xls`
 
 ## Tools Used
 
 - Microsoft Power BI
-- Excel / Sample Superstore dataset
+- Microsoft Excel
 - GitHub
 
 ## Approach
 
-The project followed these key steps:
+The project was completed through the following steps:
 
 1. Imported and reviewed the Sample Superstore dataset.
 2. Created a dedicated Date Table for time-based analysis.
@@ -37,12 +37,12 @@ The project followed these key steps:
 4. Built an interactive Power BI dashboard.
 5. Added Month and Region slicers for dynamic filtering.
 6. Created visualizations for sales trends, top-performing products, and regional sales.
-7. Applied formatting and layout improvements for clear presentation.
+7. Applied consistent formatting and dashboard layout improvements.
 8. Tested the dashboard interactions and validated the final results.
 
 ## Key Performance Indicators
 
-The dashboard includes:
+The dashboard includes the following KPIs:
 
 - **Total Sales:** 2.33M
 - **Total Profit:** 292.30K
@@ -52,41 +52,56 @@ The dashboard includes:
 ## Dashboard Features
 
 ### KPI Cards
+
 Provides a quick overview of the main business performance indicators.
 
 ### Sales Trend Over Time
+
 Shows how sales change across the available date range.
 
 ### Top 5 Products by Sales
+
 Highlights the five highest-performing products based on total sales.
 
 ### Sales by Region
+
 Compares sales performance across the four regions.
 
 ### Interactive Filters
-Users can filter the dashboard by:
+
+The dashboard includes interactive filters for:
 
 - Month
 - Region
 
-The filters work together to provide dynamic analysis.
+The filters can be used individually or together for more detailed analysis.
+
 ## Dashboard Preview
 
 ![Sales Performance Dashboard](dashboard-overview.png.png)
+
 ## Final Outcome
 
-The final Power BI dashboard provides an interactive and easy-to-understand view of sales performance. It enables users to quickly identify overall performance, top products, regional trends, and changes in sales over time.
+The final Power BI dashboard transforms raw sales data into an interactive business intelligence report.
 
-The dashboard was designed with a clean layout and consistent visual formatting to support effective business analysis and presentation.
+It enables users to quickly evaluate overall sales and profitability, identify top-performing products, compare regional performance, and analyze sales trends over time.
+
+The dashboard was designed with a clean, consistent layout to support effective business analysis and presentation.
 
 ## Files Included
 
 | File | Description |
 |---|---|
 | `Sales_Performance_Dashboard.pbix` | Final Power BI dashboard |
-| `full sample_superstore.xls` | Source dataset |
+| `full sample_superstore.xls` | Original Sample Superstore dataset |
+| `dashboard-overview.png.png` | Final dashboard screenshot |
 | `README.md` | Project documentation |
 
 ## Conclusion
 
-This project demonstrates the use of Power BI, data modeling, DAX measures, interactive filtering, and data visualization to transform raw sales data into an actionable business intelligence dashboard.
+This project demonstrates practical skills in Power BI, data modeling, DAX measures, interactive filtering, and business data visualization.
+
+The completed dashboard provides an accessible and interactive view of sales performance and supports data-driven business analysis.
+
+
+
