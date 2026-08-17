@@ -8,7 +8,7 @@ The dashboard provides a clear view of sales performance, profitability, product
 
 ## Dataset
 
-The project uses the **Sample Superstore** dataset, which contains order-level business information including:
+The project uses the Sample Superstore dataset, which contains order-level business information including:
 
 - Order Date
 - Product Name
@@ -42,7 +42,7 @@ The project was completed through the following steps:
 
 ## Key Performance Indicators
 
-The dashboard includes the following KPIs:
+The dashboard includes:
 
 - **Total Sales:** 2.33M
 - **Total Profit:** 292.30K
@@ -102,6 +102,10 @@ The dashboard was designed with a clean, consistent layout to support effective 
 This project demonstrates practical skills in Power BI, data modeling, DAX measures, interactive filtering, and business data visualization.
 
 The completed dashboard provides an accessible and interactive view of sales performance and supports data-driven business analysis.
+
+
+
+
 
 
 
