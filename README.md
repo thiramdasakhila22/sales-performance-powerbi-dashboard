@@ -72,7 +72,7 @@ Users can filter the dashboard by:
 The filters work together to provide dynamic analysis.
 ## Dashboard Preview
 
-![Sales Performance Dashboard](dashboard-overview.png)
+![Sales Performance Dashboard](sales%20performance%20dashboard.png)
 ## Final Outcome
 
 The final Power BI dashboard provides an interactive and easy-to-understand view of sales performance. It enables users to quickly identify overall performance, top products, regional trends, and changes in sales over time.
